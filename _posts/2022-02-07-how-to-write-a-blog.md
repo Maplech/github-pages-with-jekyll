@@ -1,10 +1,4 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+title: "Maple blog"
+date: 2022-02-07
 ---
-
-# Welcome
-
-**Hello world**, this is my first Jekyll blog post.
-
-I hope you like it!
